@@ -1,0 +1,4 @@
+Cancel (c)
+Shutdown (s)
+Reboot (r)
+Logout (l)
